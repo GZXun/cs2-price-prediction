@@ -1,0 +1,16 @@
+# Public allowlist: review this file and check_release.py before adding files.
+*
+!.gitignore
+!README.md
+!ARCHITECTURE.md
+!PUBLICATION.md
+!VERIFICATION.md
+!requirements.txt
+!demo.py
+!check_release.py
+!model/
+model/*
+!model/__init__.py
+!model/components.py
+!model/demo_model.py
+!model/xlstm.py
